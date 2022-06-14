@@ -1,0 +1,1 @@
+# trabalhando-com-stubs-requisicao-externa
